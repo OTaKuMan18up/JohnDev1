@@ -1,1 +1,2 @@
-alert('XSS by external script!');
+alert('Hack แปบครับ!');
+console.log(document.cookie);
