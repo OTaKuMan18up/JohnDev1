@@ -1,1 +1,1 @@
-alert('test')
+alert('XSS by external script!');
