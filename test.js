@@ -9,4 +9,4 @@ function getCookie(name) {
   // ดึงค่า ci_session
   const ciSession = getCookie('ci_session');
   console.log(ciSession);
-  
+  ttt
